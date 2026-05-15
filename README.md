@@ -75,7 +75,7 @@ Client-server chat applications are foundational to real-time communication over
 
 ## Program:
 
-Client:
+## Client:
 
 ```
 import socket
@@ -107,7 +107,7 @@ while True:
 client.close()
 ```
 
-Server:
+## Server:
 
 ```
 import socket
@@ -146,13 +146,13 @@ conn.close()
 server.close()
 ```
 
-Output:
+## Output:
 
-Client:
+## Client:
 
 <img width="275" height="108" alt="image" src="https://github.com/user-attachments/assets/df91d7b7-2164-482d-bfe9-e84c466d870c" />
 
-Server:
+## Server:
 
 <img width="370" height="150" alt="image" src="https://github.com/user-attachments/assets/14954c2c-0242-4d67-b7fe-c96f43ec4580" />
 
